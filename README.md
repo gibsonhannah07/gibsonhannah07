@@ -11,7 +11,7 @@ As a detail‑oriented professional, I care deeply about using data and tech to 
 • SQL  
 
 
-🌎 What I’m Exploring    
+🗺️ What I’m Exploring    
 • Clean, accessible UI and front‑end development   
 • Java fundamentals and object‑oriented design  
 • SQL, data workflows, and sustainability‑focused applications  
