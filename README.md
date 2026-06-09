@@ -5,16 +5,15 @@
 
 🛠️ Tech Stack: JavaScript, HTML, CSS, Java, SQL
 
-
-🌱 What I’m Exploring: 
+🌎 What I’m Exploring: 
   Clean, accessible UI and front‑end development
   Java fundamentals and object‑oriented design
   SQL, data workflows, and sustainability‑focused applications
 
 📂 Featured Project: 
-**[ESG Company Dashboard](https://github.com/gibsonhannah07/esg-company-dashboard)**  
-  A web‑based dashboard that helps users explore Environmental, Social, and Governance metrics across multiple companies. 
-  Designed to make sustainability data more transparent, approachable, and actionable.
+| name | description |
+| --- | --- |
+| **[esg-company-dashboard](https://github.com/gibsonhannah07/esg-company-dashboard)** | a web-based dashboard that visualizes environmental, social, and governance metrics across multiple companies. built to make sustainability data more transparent, approachable, and actionable. |
 
 
 🌍 What Motivates Me: 
