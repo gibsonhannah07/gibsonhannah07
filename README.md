@@ -4,8 +4,8 @@ I’m a beginner software developer in the LaunchCode Women+ program, building s
 As a detail‑oriented professional, I care deeply about using data and tech to support meaningful change. Through LaunchCode, I’m growing my abilities in software development and data‑driven problem‑solving to create tools that are accessible, thoughtful, and genuinely useful.
 
 
-🛠️ Tech Stack    
-• JavaScript  
+🛠️ Tech Stack & Tools    
+• JavaScript    
 • HTML and CSS   
 • Java  
 • SQL  
