@@ -14,7 +14,7 @@ I’m a beginner software developer in the LaunchCode Women+ program, building s
 • SQL, data workflows, and sustainability‑focused applications  
 • Full‑stack development and connecting React frontends to Java/Spring Boot backends  
 
-📂 Featured Projects  
+📂 Featured Project 
 | Name | Description |
 | --- | --- |
 | **[esg-company-dashboard](https://github.com/gibsonhannah07/esg-company-dashboard-backend)** | A full‑stack web application that visualizes environmental, social, and governance metrics across multiple companies. Built with React, Java/Spring Boot, and MySQL as part of my LaunchCode Unit 1 and Unit 2 projects. The dashboard makes sustainability data more transparent, approachable, and actionable, now with persistent backend storage, CRUD operations, and a session‑based favorites system. |
