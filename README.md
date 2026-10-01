@@ -1,5 +1,5 @@
 👋 Hi, I’m Hannah    
-I’m a beginner software developer in the LaunchCode Women+ program, building skills in JavaScript, HTML, CSS, Java, and SQL. My background in nonprofit work, sustainability, and community outreach shapes how I approach technology — with intention, clarity, and a focus on real, measurable impact.
+I’m a beginner software developer in the LaunchCode Women+ program, building skills in JavaScript, HTML, CSS, Java, and SQL. My background in nonprofit work, sustainability, and community outreach shapes how I approach technology: with intention, clarity, and a focus on real, measurable impact.
 
 🛠️ Tech Stack & Tools    
 • JavaScript    
