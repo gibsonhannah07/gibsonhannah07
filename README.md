@@ -2,7 +2,7 @@
 I’m a recent grad of LaunchCode's Women+ Software Development program, building skills in JavaScript, HTML, CSS, Java, and SQL. My background in nonprofit work, sustainability, and community outreach shapes how I approach technology: with intention, clarity, and a focus on real, measurable impact.
 
 🛠️ Tech Stack & Tools    
-• JavaScript (React)
+• JavaScript (React)   
 • HTML and CSS   
 • Java (Spring Boot)  
 • SQL (MySQL)  
